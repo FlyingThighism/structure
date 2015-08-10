@@ -4,3 +4,15 @@
 蓄積していければと思います。
 
 尚、このテキストの内容は折を見て編集します。
+
+## 記法に関して
+
+[マークダウン](http://www.markdown.jp/syntax/)を用いて記述してください。
+
+## 作業環境について
+
+- [GitHub for Mac](https://mac.github.com/) 推奨。
+ - ローカルの適当な階層に clone して、md ファイルを編集すること。
+
+- [Adobe Brackets](http://html.adobe.com/jp/opensource/) 推奨。
+ - Markdown Preview というプラグインを入れると、プレビューで確認しながら編集できる。

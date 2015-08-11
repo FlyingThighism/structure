@@ -8,7 +8,7 @@
 - Ψ[Thigh]
 - ハンドΨン[Hand Sign]
 - チャリシャ[Chelsea]
-- 支部長[Branch Chief : ShivChoh]
+- 支部長[Contributor : ShivChoh]
 - 正式刺股[Fork]
 - 有罪の図[Guilty’s]
 - 空飛ぶフトモモモンスターに成り損ねモンスター[Another Dimension Monster]

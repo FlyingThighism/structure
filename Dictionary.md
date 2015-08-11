@@ -1,4 +1,4 @@
-# FlyingThighism Noble Glossary（用語集）
+# FlyingThighism Dictionary（用語集）
 
 - 空飛ぶフトモモモンスター[Flying Thigh Monster]
 - 空飛ぶフトモモモンスター教[Flying Thighism]
